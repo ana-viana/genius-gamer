@@ -16,9 +16,9 @@ Basicamente é:
 
 ​	5 - Cada acerto ganha 1 ponto! 
 
-### Jogue agora:
+### 
 
-https://ana-viana.github.io/genius/
+
 
 
 
